@@ -1,5 +1,5 @@
 # [Migração de dados para o Azure Databricks](https://pauloesferreira.medium.com/migra%C3%A7%C3%A3o-de-dados-para-o-azure-databricks-a41e952b3f5)
-## Tive a oportunidade de conduzir o time (5 pessoas ) nessa jornada de execução do trabalho passando pela conexão no blob storage, upload das bases necessárias, chegando até as camadas de refinamento, RAW, TRUSTED, REFINED e criação da camada de DATAQUALIT além do desenvolvimento de três algoritmos, recomendação de compras, churn e inadimplência.
+### Tive a oportunidade de conduzir o time (5 pessoas ) nessa jornada de execução do trabalho passando pela conexão no blob storage, upload das bases necessárias, chegando até as camadas de refinamento, RAW, TRUSTED, REFINED e criação da camada de DATAQUALIT além do desenvolvimento de três algoritmos, recomendação de compras, churn e inadimplência.
 ### Etapas da Migração
 1 - Todas as bases utilizadas atualmente pelos BI’s disponíveis na camada Refined;
 
